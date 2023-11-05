@@ -1,0 +1,26 @@
+.imageBack{
+    background-image: url('../../public//home.jpg');
+    background-size: cover; /* Adjust as needed */
+    background-position: center; /* Adjust as needed */
+    background-repeat: no-repeat; /* Adjust as needed */
+    backdrop-filter: blur(50px);
+}
+.mainButton{
+    background-color: #061F94;
+    color: white;
+}
+.mainButton:hover{
+    color:#061F94;
+}
+.secondButton{
+    color:#061F94;
+    border-color: #061F94;
+}
+.featuresIcon{
+
+    color:rgb(53, 53, 53);
+    border-radius: 50%;
+    border-color: black;
+    border-width: 1px;
+    padding: 5px;
+}

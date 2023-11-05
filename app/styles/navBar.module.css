@@ -1,0 +1,14 @@
+.features{
+    width:30%;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.waveText{
+    font-style: oblique;
+    font-weight: bolder;
+}
+.loginButton{
+    background-color: black;
+    color: white;
+}
